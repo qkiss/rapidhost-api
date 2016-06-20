@@ -3,6 +3,7 @@ API for retrieving links/files from http://www.rapidhost.pl
 
 Also contains a command-line service.
 
+```
 usage: service.py [-h] -u USERNAME -p PASSWORD [-r ROOT]
 
 optional arguments:
@@ -12,3 +13,4 @@ optional arguments:
   -p PASSWORD, --password PASSWORD
                         Password
   -r ROOT, --root ROOT  Root path for downloaded files
+```
